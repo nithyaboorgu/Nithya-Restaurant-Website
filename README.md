@@ -1,2 +1,2 @@
-# nithya-restaurant-website
+restaurant-website
 Restaurant Website
